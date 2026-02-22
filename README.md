@@ -4,7 +4,7 @@
 GARUDA_OS is a futuristic aerospace-inspired UI concept built as an experimental web experience.  
 It blends AI-generated visuals with a sleek, immersive interface to simulate a next-gen autonomous defense system dashboard.
 
-***Live Demo***: 
+***Live Demo***: https://garuda-chi-teal.vercel.app
 
 ---
 
